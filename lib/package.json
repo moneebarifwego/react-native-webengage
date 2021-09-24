@@ -7,7 +7,7 @@
   "homepage": "https://docs.webengage.com/docs/react-native",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/WebEngage/react-native-webengage.git"
+    "url": "git+https://github.com/moneebarifwego/react-native-webengage.git"
   },
   "main": "index.js",
   "scripts": {
