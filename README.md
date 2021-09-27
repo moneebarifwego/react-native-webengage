@@ -1,4 +1,4 @@
-
+Gradle 7 and android 11 support added
 [![Version](https://img.shields.io/npm/v/react-native-webengage-wego.svg)](https://www.npmjs.com/package/react-native-webengage-wego) [![Downloads](https://img.shields.io/npm/dm/react-native-webengage-wego.svg)](https://www.npmjs.com/package/react-native-webengage-wego) 
 
 This project contains WebEngage React Native SDK(lib) and a Sample Project(ExampleApp).
