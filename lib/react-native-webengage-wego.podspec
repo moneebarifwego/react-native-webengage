@@ -9,7 +9,7 @@ Pod::Spec.new do |s|
   s.license        = package['license']
   s.author         = package['author']
   s.homepage       = package['homepage']
-  s.source         = { :git => 'https://github.com/WebEngage/react-native-webengage.git', :tag => s.version }
+  s.source         = { :git => 'https://github.com/moneebarifwego/react-native-webengage.git', :tag => s.version }
 
   s.requires_arc   = true
   s.module_name    = 'webengageBridge' 
